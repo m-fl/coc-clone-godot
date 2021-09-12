@@ -8,6 +8,8 @@ var unit_arr : Array = []
 var itr = 0
 onready var nav_2d : Navigation2D = get_child(1)
 
+#test for git
+
 func _ready():
 	createNewBase(loadBase, 317, 735)
 
