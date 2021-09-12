@@ -10,6 +10,9 @@ onready var nav_2d : Navigation2D = get_child(1)
 
 #test for git
 
+func testForGit():
+	print("confusion")
+
 func _ready():
 	createNewBase(loadBase, 317, 735)
 
